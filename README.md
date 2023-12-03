@@ -42,7 +42,7 @@ Login Page of page
 
 
 
-Contace Section of page
+Contact Section of page
 
 
 ![8](https://github.com/XultroN8130/E-kart-Site-Evolve-X-/assets/77200932/d5eb9ef3-4052-4d5c-a4b0-0f6079e8fde0)
